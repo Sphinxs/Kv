@@ -1,0 +1,24 @@
+
+Guia :
+
+1 - Crie uma pasta com o nome ' Custom '
+
+2 - Copie  o Custom.css e cole na pasta Custom
+
+----------------------------------------------
+
+Windows :
+
+Copie a pasta Custom para
+
+    C:\Users\<seus-nome>\.jupyter
+
+
+Linux / Mac :
+
+Copie a pasta para :
+
+    ~\.jupyter
+
+Obs : Casso não funcione, então tente alterar o
+nome da pasta e do arquivo para letra minúsculas

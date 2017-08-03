@@ -1,0 +1,33 @@
+
+# <Root@FloatLayout> Informa que a classe ' Root ' recebe Float Layout como herança
+
+# <Root> Informa que ' Root ' é uma classe
+
+<Root>:
+
+    # Button = Instância Classe, Text ... = Propriedades
+
+    Button:
+
+        # Size_hint = None, None Informa que ' x / y ' não vão conter valor percentual
+
+        # Horizontal / Vertical
+
+        size_hint: None, None
+        size: 350, 50
+        x: 100
+        y: 350
+        text: 'Px'
+
+    Button:
+
+        size_hint: None, None
+        size: dp ( 350 ), dp ( 50 )
+        pos: dp ( 100 ), dp ( 270 )
+        text: 'Dp'
+
+    Button:
+
+        size_hint: .5, .09
+        pos_hint: { 'x': .3, 'y': .1 }
+        text: '%'
