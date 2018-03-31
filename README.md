@@ -1,4 +1,4 @@
 
-### Estudo De Kivy
+#### Kv
 
-Algumas ferramentas, ebooks, imagens e outros itens que estou utilizando para aprender *Kv Lang* - [Kivy](https://kivy.org/#home).
+:roller_coaster: Códigos gerados no estudo do framework Kivy
